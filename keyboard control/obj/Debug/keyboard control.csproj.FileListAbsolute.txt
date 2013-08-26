@@ -1,0 +1,18 @@
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\keyboard control\keyboard control\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\keyboard control\keyboard control\obj\Debug\keyboard_control.Form1.resources
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\keyboard control\keyboard control\obj\Debug\keyboard_control.Properties.Resources.resources
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\keyboard control\keyboard control\obj\Debug\keyboard control.csproj.GenerateResource.Cache
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\keyboard control\keyboard control\bin\Debug\keyboard control.exe
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\keyboard control\keyboard control\bin\Debug\keyboard control.pdb
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\keyboard control\keyboard control\obj\Debug\keyboard control.exe
+C:\Users\Robin\Documents\Visual Studio 2008\Projects\keyboard control\keyboard control\obj\Debug\keyboard control.pdb
+D:\working datas\keyboard control\keyboard control\obj\Debug\keyboard control.exe
+D:\working datas\keyboard control\keyboard control\obj\Debug\keyboard control.pdb
+D:\working datas\keyboard control\keyboard control\bin\Debug\keyboard control.exe
+D:\working datas\keyboard control\keyboard control\bin\Debug\keyboard control.pdb
+D:\working datas\keyboard control\keyboard control\obj\Debug\ResolveAssemblyReference.cache
+D:\working datas\keyboard control\keyboard control\obj\Debug\keyboard_control.Form1.resources
+D:\working datas\keyboard control\keyboard control\obj\Debug\keyboard_control.Properties.Resources.resources
+D:\working datas\keyboard control\keyboard control\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\working datas\keyboard control\keyboard control\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\working datas\keyboard control\keyboard control\bin\Debug\keyboard control.exe.config
